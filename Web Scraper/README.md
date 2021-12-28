@@ -1,1 +1,1 @@
-
+This folder features a webscraper created to retrieve data from Transfermarkt, a football statistics website. The data retrieved includes the names of soccer players as well as their market value, nationality, age, footedness, height, and position.
